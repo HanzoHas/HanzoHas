@@ -1,6 +1,6 @@
 # 💫 About Me:
  <h1>Hey I'm Hanzo..</h1> <br>
-🔭 I’m currently Studying <br>🤝 I’m looking for help with react<br>
+🔭 I’m currently Studying <br>🤝 I’m looking for help with Rust<br>
 <h1>https://micaharthu.netlify.app/ </h1>
 
 
