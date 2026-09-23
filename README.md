@@ -1,6 +1,6 @@
 # 💫 About Me:
  I’m currently Studying<br>🤝 I’m looking for help with Rust
- <h1>https://micaharthu.netlify.app/ </h1>
+
 
 
 
