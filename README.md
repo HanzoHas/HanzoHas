@@ -1,5 +1,5 @@
-# 💫 About Me:
- I’m currently Studying<br>🤝 I’m looking for help with Rust
+# 💫 About :
+ <H2>You Know Where you are with</H2>
 
 
 
